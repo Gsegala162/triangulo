@@ -1,0 +1,2 @@
+# triangulo
+C
